@@ -2,3 +2,4 @@ adal==1.2.2
 azure-cli-core==2.4.0
 msrestazure==0.6.2
 azure-mgmt-compute==8.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
